@@ -4,15 +4,19 @@
 
 #a {
   background-color: #7973DE;
+  min-height: 75px;
+  line-height: 75px;
 }
 
 #b::before {
   content: "b";
 }
 
-/* #b {
-  background-color: orange;
-} */
+#b {
+  /* background-color: orange; */
+  min-height: 150px;
+  line-height: 150px;
+}
 
 #b-i {
   background-color: #DEA4A0;
@@ -32,6 +36,11 @@
 
 #d {
   background-color: #8E8ADF;
+}
+
+#c, #d {
+  min-height: 125px;
+  line-height: 125px;
 }
 
 #e::before {
@@ -66,10 +75,17 @@
   background-color: #D0DE73;
 }
 
+#e, #f, #g, #h {
+  min-height: 250px;
+  line-height: 250px;
+}
+
 #i::before {
   content: "i";
 }
 
 #i {
   background-color: #7EACDE;
+  min-height: 80px;
+  line-height: 80px;
 }

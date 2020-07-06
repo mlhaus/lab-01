@@ -1,0 +1,75 @@
+#a::before {
+  content: "a";
+}
+
+#a {
+  background-color: #7973DE;
+}
+
+#b::before {
+  content: "b";
+}
+
+/* #b {
+  background-color: orange;
+} */
+
+#b-i {
+  background-color: #DEA4A0;
+}
+
+#c::before {
+  content: "c";
+}
+
+#c {
+  background-color: #DECC73;
+}
+
+#d::before {
+  content: "d";
+}
+
+#d {
+  background-color: #8E8ADF;
+}
+
+#e::before {
+  content: "e";
+}
+
+#e {
+  background-color: #7EDEA7;
+}
+
+#f::before {
+  content: "f";
+}
+
+#f {
+  background-color: #C095DE;
+}
+
+#g::before {
+  content: "g";
+}
+
+#g {
+  background-color: #DEC7A0;
+}
+
+#h::before {
+  content: "h";
+}
+
+#h {
+  background-color: #D0DE73;
+}
+
+#i::before {
+  content: "i";
+}
+
+#i {
+  background-color: #7EACDE;
+}

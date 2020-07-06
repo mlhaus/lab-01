@@ -1,0 +1,28 @@
+#e, #f, #g, #h {
+  width: 50%;
+  float: left;
+}
+
+/* Breakpoint */
+@media (min-width: 768px) {
+  #b{
+    width: 20%;
+    float: left;
+  }
+
+  #c-i {
+    width: 80%;
+    float: left;
+  }
+
+  #c, #d {
+    width: 50%;
+    float: left;
+  }
+
+  #e, #f, #g, #h {
+    width: 25%;
+    float: left;
+  }
+
+}

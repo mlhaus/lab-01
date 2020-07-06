@@ -2,34 +2,70 @@
   content: "a";
 }
 
+#a {
+  background-color: red;
+}
+
 #b::before {
   content: "b";
+}
+
+#b {
+  background-color: orange;
 }
 
 #c::before {
   content: "c";
 }
 
+#c {
+  background-color: yellow;
+}
+
 #d::before {
   content: "d";
+}
+
+#d {
+  background-color: green;
 }
 
 #e::before {
   content: "e";
 }
 
+#e {
+  background-color: blue;
+}
+
 #f::before {
   content: "f";
+}
+
+#f {
+  background-color: indigo;
 }
 
 #g::before {
   content: "g";
 }
 
+#g {
+  background-color: violet;
+}
+
 #h::before {
   content: "h";
 }
 
+#h {
+  background-color: plum;
+}
+
 #i::before {
   content: "i";
+}
+
+#i {
+  background-color: red;
 }
